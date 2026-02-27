@@ -62,4 +62,9 @@ public class PruebaBaseDatos_SQL_Local {
 	public static void verUsuarios() {
         System.out.println("Mostrando usuarios...");
     }
+    
+    public static void anadirUsuarios() {
+    System.out.println("Añadiendo usuarios...");
+}
+
 }
