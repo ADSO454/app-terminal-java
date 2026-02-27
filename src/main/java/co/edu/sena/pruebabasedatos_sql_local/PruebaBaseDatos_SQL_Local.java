@@ -58,4 +58,8 @@ public class PruebaBaseDatos_SQL_Local {
             System.out.println("Hubo un error al acceder a la base de datos: " + e.getMessage());
         }
     }
+
+	public static void verUsuarios() {
+        System.out.println("Mostrando usuarios...");
+    }
 }
