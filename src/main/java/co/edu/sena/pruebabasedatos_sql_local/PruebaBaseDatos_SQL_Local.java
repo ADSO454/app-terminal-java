@@ -5,6 +5,7 @@ import java.sql.*;
 public class PruebaBaseDatos_SQL_Local {
 
     public static void main(String[] args) {
+		
         try {
             int documento;
             String nombres, apellidos, ciudad;
